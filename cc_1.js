@@ -36,3 +36,8 @@ console.log(accountbalance);
 
 accountbalance /= 50;
 console.log(accountbalance);
+
+// Task 4: String Data Types //
+let customername = "kate newsome";
+let welcomemessage = "welcome back member!" + customername + "Nice to see you again!";
+console.log(welcomemessage);
