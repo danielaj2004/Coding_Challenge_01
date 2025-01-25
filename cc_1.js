@@ -41,3 +41,13 @@ console.log(accountbalance);
 let customername = "kate newsome";
 let welcomemessage = "welcome back member!" + customername + "Nice to see you again!";
 console.log(welcomemessage);
+
+// Task 5: Boolean Data Type //
+let isloggedin = true
+let hasaccess = isloggedin && true;
+
+if(hasaccess) {
+    console.log("Access has been given");
+} else { 
+    console.log("Access Denied");
+}
