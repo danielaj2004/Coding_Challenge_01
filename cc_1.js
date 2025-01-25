@@ -9,3 +9,15 @@ console.log(employeeID);
 console.log(typeof employeeID);
 console.log(isActive);
 console.log(typeof isActive);
+
+// Task 2: Pimitive Data Types //
+let productname = "water bottle";
+const productPrice = 19.99;
+var isAvailable = true;
+
+console.log(productname);
+console.log(typeof productname); 
+console.log(productPrice);
+console.log(typeof productPrice);
+console.log(isAvailable);
+console.log(typeof isAvailable);
